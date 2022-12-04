@@ -1,6 +1,6 @@
 
   
-  # gg
+  # README GENERATOR
   
   
   ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
@@ -18,23 +18,23 @@
   
 
   # Description
-  gg
+  it generates a readme
   
   
   # Installation
-  gg
+  click instal
   
   
   # Usage
-  gg
+  generate yo self a readme 
   
   
   # Contributions
-  gg
+  me
 
 
   # Test
-  gg
+  npm test
 
   # License 
   This application is licensed under the Apache_2.0 license
@@ -43,7 +43,7 @@
   # Questions 
   Any questions, comments or concerns please contact me through my email or GitHub
   
-  [Email](mailto:vbfehuvbfeiwv@gmail.com)
+  [Email](mailto:michaelgiordano1919@gmail.com)
 
-  [GitHub](https://www.github.com/Ccatalyst)
+  [GitHub](https://www.github.com/MG1919)
   
